@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Um profissional dedicado ao aprendizado e aperfeiçoamento contínuo e apaixonado por sua área de atuação, a programação. :rocket:
+Sou um profissional dedicado ao aprendizado e aperfeiçoamento contínuo e apaixonado por minha área de atuação, a programação. :rocket:
 
 <img align="right" alt="programação" src="https://github.com/ThiagoOliveiraCordeiro/ThiagoOliveiraCordeiro/blob/master/programming.svg" width="500" height="250" />
 
