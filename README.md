@@ -21,13 +21,14 @@ Here are some ideas to get you started:
 
 Um profissional dedicado ao aprendizado e aperfeiçoamento contínuo e apaixonado por sua área de atuação, a programação. :rocket:
 
+<img align="right" alt="programação" src="https://github.com/ThiagoOliveiraCordeiro/ThiagoOliveiraCordeiro/blob/master/programming.svg" width="500" height="250" />
+
 - 👨🏽‍💻 Desenvolvedor FullStack com a Stack JS: React, Node e React Native. 💜
 
 - :books: Formação acadêmica: Graduando em Tecnologia da Informação pela Universidade Federal do Rio Grande do Norte (UFRN) e técnico em Administração pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN). 
 
 **Languages and Tools:**  
 
-<img align="right" alt="programação" src="https://github.com/ThiagoOliveiraCordeiro/ThiagoOliveiraCordeiro/blob/master/programming.svg" width="300" height="320" />
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
