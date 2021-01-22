@@ -19,17 +19,29 @@ Here are some ideas to get you started:
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Sou um profissional dedicado ao aprendizado e aperfeiçoamento contínuo e apaixonado por minha área de atuação, a programação. :rocket:
+:us:
+
+I am a professional dedicated to learning and continuous improvement and passionate about my area of ​​expertise, programming. :rocket:
+
 
 <img align="right" alt="programação" src="https://github.com/ThiagoOliveiraCordeiro/ThiagoOliveiraCordeiro/blob/master/programming.svg" width="500" height="250" />
 
+- 👨🏽‍💻 FullStack developer with Stack JS: React, Node and React Native.💜
+
+- :books: Academic background: Graduating in Computer Science from the Federal University of Rio Grande do Norte (UFRN) and technician in Administration from the Federal Institute of Education, Science and Technology of Rio Grande do Norte (IFRN). 
+
+🇧🇷
+
+Sou um profissional dedicado ao aprendizado e aperfeiçoamento contínuo e apaixonado por minha área de atuação, a programação. :rocket:
+
 - 👨🏽‍💻 Desenvolvedor FullStack com a Stack JS: React, Node e React Native. 💜
 
-- :books: Formação acadêmica: Graduando em Tecnologia da Informação pela Universidade Federal do Rio Grande do Norte (UFRN) e técnico em Administração pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN). 
+- :books: Formação acadêmica: Graduando em Ciẽncia da Computação pela Universidade Federal do Rio Grande do Norte (UFRN) e técnico em Administração pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN). 
 
 **Languages and Tools:**  
 
-
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -37,6 +49,8 @@ Sou um profissional dedicado ao aprendizado e aperfeiçoamento contínuo e apaix
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
+
 
 
 📈 My GitHub Stats
