@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#  Thiago Oliveira
+# ⚡ Thiago Oliveira
 
 <img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
 
 ### Hi 👋
 
-Sou um profissional dedicado ao aprendizado e aperfeiçoamento contínuo e apaixonado por sua área de atuação, a programação. 🚀
+Um profissional dedicado ao aprendizado e aperfeiçoamento contínuo e apaixonado por sua área de atuação, a programação. :rocket:
 
 - 👨🏽‍💻 Desenvolvedor FullStack com a Stack JS: React, Node e React Native. 💜
 
@@ -32,6 +32,10 @@ Sou um profissional dedicado ao aprendizado e aperfeiçoamento contínuo e apaix
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/reactnative/reactnative.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=ThiagoOliveiraCordeiro)
 
