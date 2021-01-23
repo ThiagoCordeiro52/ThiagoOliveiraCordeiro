@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 </a>&nbsp;&nbsp; 
 </p>
 
+<p>
+
 :us:
 
 I am a professional dedicated to learn and continuous improvement and passionate about my area of ​​expertise, programming. :rocket:
@@ -38,7 +40,10 @@ I am a professional dedicated to learn and continuous improvement and passionate
 
 - :books: Academic background: Graduating in Computer Science from the Federal University of Rio Grande do Norte (UFRN) and technician in Administration from the Federal Institute of Education, Science and Technology of Rio Grande do Norte (IFRN). 
 
-<p>🇧🇷
+</p>
+
+<p>
+🇧🇷
 
 Sou um profissional dedicado ao aprendizado e aperfeiçoamento contínuo e apaixonado por minha área de atuação, a programação. :rocket:
 
