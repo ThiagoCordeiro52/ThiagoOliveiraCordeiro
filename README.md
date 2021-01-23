@@ -32,9 +32,13 @@ Here are some ideas to get you started:
 
 :us:
 
+
+
 I am a professional dedicated to learn and continuous improvement and passionate about my area of ​​expertise, programming. :rocket:
 
-<img align="right" alt="programação" src="https://github.com/ThiagoOliveiraCordeiro/ThiagoOliveiraCordeiro/blob/master/programming.svg" width="500" height="250" /> <p>
+<img align="right" alt="programação" src="https://github.com/ThiagoOliveiraCordeiro/ThiagoOliveiraCordeiro/blob/master/programming.svg" width="500" height="230" /> <p>
+
+
 
 - 👨🏽‍💻 FullStack developer with Stack JS: React, Node and React Native.💜
 
