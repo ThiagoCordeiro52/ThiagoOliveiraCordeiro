@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<p align='center'>
+<p>
 <a href="https://www.linkedin.com/in/thiago-de-oliveira-cordeiro-32562b1b6/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
@@ -39,13 +39,13 @@ I am a professional dedicated to learning and continuous improvement and passion
 
 - :books: Academic background: Graduating in Computer Science from the Federal University of Rio Grande do Norte (UFRN) and technician in Administration from the Federal Institute of Education, Science and Technology of Rio Grande do Norte (IFRN). 
 
-🇧🇷
+<p>🇧🇷
 
 Sou um profissional dedicado ao aprendizado e aperfeiçoamento contínuo e apaixonado por minha área de atuação, a programação. :rocket:
 
 - 👨🏽‍💻 Desenvolvedor FullStack com a Stack JS: React, Node e React Native. 💜
 
-- :books: Formação acadêmica: Graduando em Ciẽncia da Computação pela Universidade Federal do Rio Grande do Norte (UFRN) e técnico em Administração pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN). 
+- :books: Formação acadêmica: Graduando em Ciẽncia da Computação pela Universidade Federal do Rio Grande do Norte (UFRN) e técnico em Administração pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN). </p>
 
 **Languages and Tools:**  
 
