@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 # ⚡ Thiago Oliveira
 
-
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <p>
@@ -32,12 +31,9 @@ Here are some ideas to get you started:
 
 :us:
 
-
-
-I am a professional dedicated to learn and continuous improvement and passionate about my area of ​​expertise, programming. :rocket:
+I am a professional dedicated to learning and continuous improvement and passionate about my area of ​​studying, programming. :rocket:
 
 <img align="right" alt="programação" src="https://github.com/ThiagoOliveiraCordeiro/ThiagoOliveiraCordeiro/blob/master/programming.svg" width="500" height="230" /> <p>
-
 
 
 - 👨🏽‍💻 FullStack developer with Stack JS: React, Node and React Native.💜
@@ -70,18 +66,13 @@ Sou um profissional dedicado ao aprendizado e aperfeiçoamento contínuo e apaix
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
 
 
-
-
 📈 My GitHub Stats
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoOliveiraCordeiro&layout=compact"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=ThiagoOliveiraCordeiro&show_icons=true" alt="ThiagoOliveiraCordeiro" />
 <!-- <p style="align=center;"> -->
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
+<!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 <!-- </p> -->
-
- <!-- &theme=material-palenight -->
-
- <!-- &theme=gotham -->
+<!-- &theme=material-palenight -->
+<!-- &theme=gotham -->
