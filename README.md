@@ -67,11 +67,11 @@ Sou um profissional dedicado ao aprendizado e aperfeiçoamento contínuo e apaix
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoOliveiraCordeiro&layout=compact"/>
 
-<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=ThiagoOliveiraCordeiro&show_icons=true" alt="ThiagoOliveiraCordeiro" />
-<p style="align=center;">
+<img src="https://github-readme-stats.vercel.app/api?username=ThiagoOliveiraCordeiro&show_icons=true" alt="ThiagoOliveiraCordeiro" />
+<!-- <p style="align=center;"> -->
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-</p>
+<!-- </p> -->
 
  <!-- &theme=material-palenight -->
 
