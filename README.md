@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/thiago-de-oliveira-cordeiro-32562b1b6/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://instagram.com/thiagoty52">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+<a href="mailto:thiagoty52@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
 </a>&nbsp;&nbsp; 
 </p>
 
@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 
 I am a professional dedicated to learning and continuous improvement and passionate about my area of ​​expertise, programming. :rocket:
 
-
-<img align="right" alt="programação" src="https://github.com/ThiagoOliveiraCordeiro/ThiagoOliveiraCordeiro/blob/master/programming.svg" width="500" height="250" />
+<>
+<img align="right" alt="programação" src="https://github.com/ThiagoOliveiraCordeiro/ThiagoOliveiraCordeiro/blob/master/programming.svg" width="500" height="250" /> <p>
 
 - 👨🏽‍💻 FullStack developer with Stack JS: React, Node and React Native.💜
 
@@ -65,8 +65,14 @@ Sou um profissional dedicado ao aprendizado e aperfeiçoamento contínuo e apaix
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ThiagoOliveiraCordeiro&show_icons=true&theme=gotham" alt="ThiagoOliveiraCordeiro" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoOliveiraCordeiro&layout=compact"/>
+
+<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=ThiagoOliveiraCordeiro&show_icons=true" alt="ThiagoOliveiraCordeiro" />
 <p style="align=center;">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoOliveiraCordeiro&layout=compact&theme=material-palenight" />
+
 </p>
+
+ <!-- &theme=material-palenight -->
+
+ <!-- &theme=gotham -->
