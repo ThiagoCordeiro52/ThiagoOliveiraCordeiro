@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 <p> I am a professional dedicated to learning and continuous improvement and passionate about my area of ​​studying, programming. :rocket: 
 
-<img style="padding-bottom: 20px;" alt="programação" src="https://github.com/ThiagoOliveiraCordeiro/ThiagoOliveiraCordeiro/blob/master/code.gif" width="400" height="230" />
+<img style="padding-bottom: 20px; @media(min-width: 700px): align: right" alt="programação" src="https://github.com/ThiagoOliveiraCordeiro/ThiagoOliveiraCordeiro/blob/master/code.gif" width="400" height="230" />
 
 - 👨🏽‍💻 Front-end developer with: Html, Css/Sass, JavaScript/TypeScript e React. 💜
 
