@@ -53,7 +53,7 @@ Sou um profissional dedicado ao aprendizado e aperfeiçoamento contínuo e apaix
 
 <details>
 
-<sumary> Languages and Tools: </sumary>  
+<summary> <h3>Languages and Tools:</h3> </summary>  
 
 <code> <img alt="icone do html5" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
 <code> <img alt="icone do css3" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
