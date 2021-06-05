@@ -53,30 +53,30 @@ Sou um profissional dedicado ao aprendizado e aperfeiçoamento contínuo e apaix
 
 <details>
     <summary> Languages and Tools: </summary>  
-    <code> <img alt="icone do html5" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
-    <code> <img alt="icone do css3" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
-    <code><img alt="icone do JavaScript" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-    <code><img alt="icone do BootStrap" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></code>
-    <code><img alt="icone do TypeScript" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
-    <code><img alt="icone do BabelJS" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg"></code>
-    <code><img alt="icone do Webpack" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg"></code>
-    <code><img alt="icone do ReactJS" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
-    <code><img alt="icone do NextJS" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"></code>
-    <code><img alt="icone do ExpressJS" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"></code>
-    <code><img alt="icone do Python" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-    <code><img alt="icone do Django" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"></code>
-    <code><img alt="icone do MySql" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
-    <code><img alt="icone do C" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
-    <code><img alt="icone do CPP" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
-    <code><img alt="icone do Linux" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
+    <code> <img alt="icone do html5" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
+    <code> <img alt="icone do css3" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
+    <code><img alt="icone do JavaScript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+    <code><img alt="icone do BootStrap" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></code>
+    <code><img alt="icone do TypeScript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
+    <code><img alt="icone do BabelJS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg"></code>
+    <code><img alt="icone do Webpack" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg"></code>
+    <code><img alt="icone do ReactJS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
+    <code><img alt="icone do NextJS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"></code>
+    <code><img alt="icone do ExpressJS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"></code>
+    <code><img alt="icone do Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+    <code><img alt="icone do Django" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"></code>
+    <code><img alt="icone do MySql" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
+    <code><img alt="icone do C" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
+    <code><img alt="icone do CPP" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
+    <code><img alt="icone do Linux" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
 </details>
 
 
 📈 My GitHub Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoOliveiraCordeiro&layout=compact"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoOliveiraCordeiro&&theme=react&layout=compact"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ThiagoOliveiraCordeiro&show_icons=true" alt="ThiagoOliveiraCordeiro" />
+<img src="https://github-readme-stats.vercel.app/api?username=ThiagoOliveiraCordeiro&show_icons=true&theme=react" alt="ThiagoOliveiraCordeiro" />
 <!-- <p style="align=center;"> -->
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 <!-- </p> -->
