@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 
 I am a professional dedicated to learning and continuous improvement and passionate about my area of ​​studying, programming. :rocket:
 
-<img style="margin-top: 1px;margin-bottom: 3px" align="right" alt="programação" src="https://github.com/ThiagoOliveiraCordeiro/ThiagoOliveiraCordeiro/blob/master/code.gif" width="400" height="230" />
+<img style="margin-top: 1px;margin-bottom: 10px" align="right" alt="programação" src="https://github.com/ThiagoOliveiraCordeiro/ThiagoOliveiraCordeiro/blob/master/code.gif" width="400" height="230" />
 
 
-- 👨🏽‍💻 Front-end developer with: Html, CSS/SASS, JavaScript/TypeScript e React. 💜
+- 👨🏽‍💻 Front-end developer with: Html, Css/Sass, JavaScript/TypeScript e React. 💜
 
 - :books: Academic background: Graduating in Computer Science from the Universidade Federal do Rio Grande do Norte (UFRN) and technician in Administration from the Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN). 
 
