@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 </p>
 
 
-<p style="margin-bottom: 10px;">I am a professional dedicated to learning and continuous improvement and passionate about my area of ​​studying, programming. :rocket: 
+<p style="display: block;">I am a professional dedicated to learning and continuous improvement and passionate about my area of ​​studying, programming. :rocket: 
 
 <img align="right" alt="programação" src="https://github.com/ThiagoOliveiraCordeiro/ThiagoOliveiraCordeiro/blob/master/code.gif" width="400" height="230" /></p>
 
