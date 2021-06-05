@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 I am a professional dedicated to learning and continuous improvement and passionate about my area of ​​studying, programming. :rocket:
 
-<img align="right" alt="programação" src="https://github.com/ThiagoOliveiraCordeiro/ThiagoOliveiraCordeiro/blob/master/code.gif" width="400" height="230" />
+<img styles="padding-top: 1px;" align="right" alt="programação" src="https://github.com/ThiagoOliveiraCordeiro/ThiagoOliveiraCordeiro/blob/master/code.gif" width="400" height="230" />
 
 
 - 👨🏽‍💻 FullStack developer with Stack JS: React, Node and React Native.💜
@@ -43,7 +43,7 @@ I am a professional dedicated to learning and continuous improvement and passion
 <p>
 
 <details>
-    <summary> Languages and Tools: </summary>  
+    <summary> 💻 Languages and Tools: </summary>  
     <code> <img alt="icone do html5" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
     <code> <img alt="icone do css3" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
     <code><img alt="icone do JavaScript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
@@ -63,12 +63,10 @@ I am a professional dedicated to learning and continuous improvement and passion
 </details>
 
 <details>
-📈 My GitHub Stats
-
+<summary> 📈 My GitHub Stats: </summary>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoOliveiraCordeiro&&theme=react&layout=compact&langs_count=10"/>
-
 <img src="https://github-readme-stats.vercel.app/api?username=ThiagoOliveiraCordeiro&show_icons=true&theme=react" alt="ThiagoOliveiraCordeiro" />
-<details>
+</details>
 <!-- <p style="align=center;"> -->
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 <!-- </p> -->
