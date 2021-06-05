@@ -18,14 +18,6 @@ Here are some ideas to get you started:
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<style>
-    @media(min-width: 700px) {
-        img {
-            align: right;
-        }
-    }
-</style>
-
 <p>
 <a href="https://www.linkedin.com/in/thiago-de-oliveira-cordeiro-32562b1b6/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -39,7 +31,7 @@ Here are some ideas to get you started:
 
 <p> I am a professional dedicated to learning and continuous improvement and passionate about my area of ​​studying, programming. :rocket: 
 
-<img style="padding-bottom: 20px; @media(min-width: 700px): align: right" alt="programação" src="https://github.com/ThiagoOliveiraCordeiro/ThiagoOliveiraCordeiro/blob/master/code.gif" width="400" height="230" />
+<img align="right" alt="programação" src="https://github.com/ThiagoOliveiraCordeiro/ThiagoOliveiraCordeiro/blob/master/code.gif" width="400" height="230" />
 
 - 👨🏽‍💻 Front-end developer with: Html, Css/Sass, JavaScript/TypeScript e React. 💜
 
