@@ -18,6 +18,14 @@ Here are some ideas to get you started:
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<style>
+    @media(min-width: 700px) {
+        img {
+            align: right;
+        }
+    }
+</style>
+
 <p>
 <a href="https://www.linkedin.com/in/thiago-de-oliveira-cordeiro-32562b1b6/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
