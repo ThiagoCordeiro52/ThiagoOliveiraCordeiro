@@ -33,6 +33,7 @@ I am a professional dedicated to learning and continuous improvement and passion
 
 <img style="padding-bottom: 20px" align="right" alt="programação" src="https://github.com/ThiagoOliveiraCordeiro/ThiagoOliveiraCordeiro/blob/master/code.gif" width="400" height="230" />
 
+<br>
 
 - 👨🏽‍💻 Front-end developer with: Html, Css/Sass, JavaScript/TypeScript e React. 💜
 
