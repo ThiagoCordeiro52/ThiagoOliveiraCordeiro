@@ -35,7 +35,9 @@ Here are some ideas to get you started:
 
 <p>
 
-- 👨🏽‍💻 Front-end developer with: Html, Css/Sass, JavaScript/TypeScript e React. 💜
+<p> </p>
+
+<br> - 👨🏽‍💻 Front-end developer with: Html, Css/Sass, JavaScript/TypeScript e React. 💜
 
 - :books: Academic background: Graduating in Computer Science from the Universidade Federal do Rio Grande do Norte (UFRN) and technician in Administration from the Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN). </p>
 
