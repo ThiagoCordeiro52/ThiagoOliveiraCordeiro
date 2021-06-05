@@ -29,11 +29,9 @@ Here are some ideas to get you started:
 
 <p>
 
-:us:
-
 I am a professional dedicated to learning and continuous improvement and passionate about my area of ​​studying, programming. :rocket:
 
-<img align="right" alt="programação" src="https://github.com/ThiagoOliveiraCordeiro/ThiagoOliveiraCordeiro/blob/master/programming.svg" width="500" height="230" /> <p>
+<img align="right" alt="programação" src="https://github.com/ThiagoOliveiraCordeiro/ThiagoOliveiraCordeiro/blob/master/code.gif" width="500" height="230" /> <p>
 
 
 - 👨🏽‍💻 FullStack developer with Stack JS: React, Node and React Native.💜
@@ -43,13 +41,6 @@ I am a professional dedicated to learning and continuous improvement and passion
 </p>
 
 <p>
-🇧🇷
-
-Sou um profissional dedicado ao aprendizado e aperfeiçoamento contínuo e apaixonado por minha área de atuação, a programação. :rocket:
-
-- 👨🏽‍💻 Desenvolvedor FullStack com a Stack JS: React, Node e React Native. 💜
-
-- :books: Formação acadêmica: Graduando em Ciência da Computação pela Universidade Federal do Rio Grande do Norte (UFRN) e técnico em Administração pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN). </p>
 
 <details>
     <summary> Languages and Tools: </summary>  
@@ -74,7 +65,7 @@ Sou um profissional dedicado ao aprendizado e aperfeiçoamento contínuo e apaix
 
 📈 My GitHub Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoOliveiraCordeiro&&theme=react&layout=compact"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoOliveiraCordeiro&&theme=react&layout=compact&langs_count=10"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=ThiagoOliveiraCordeiro&show_icons=true&theme=react" alt="ThiagoOliveiraCordeiro" />
 <!-- <p style="align=center;"> -->
