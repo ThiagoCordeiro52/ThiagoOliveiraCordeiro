@@ -28,15 +28,13 @@ Here are some ideas to get you started:
 </p>
 
 
-<p style="display: block;">I am a professional dedicated to learning and continuous improvement and passionate about my area of ​​studying, programming. :rocket: 
+I am a professional dedicated to learning and continuous improvement and passionate about my area of ​​studying, programming. :rocket: 
 
-<img align="right" alt="programação" src="https://github.com/ThiagoOliveiraCordeiro/ThiagoOliveiraCordeiro/blob/master/code.gif" width="400" height="230" /></p>
-
-<p>
+<img align="right" alt="programação" src="https://github.com/ThiagoOliveiraCordeiro/ThiagoOliveiraCordeiro/blob/master/code.gif" width="400" height="230" />
 
 - 👨🏽‍💻 Front-end developer with: Html, Css/Sass, JavaScript/TypeScript e React. 💜
 
-- :books: Academic background: Graduating in Computer Science from the Universidade Federal do Rio Grande do Norte (UFRN) and technician in Administration from the Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN). </p>
+- :books: Academic background: Graduating in Computer Science from the Universidade Federal do Rio Grande do Norte (UFRN) and technician in Administration from the Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN). 
 
 
 
