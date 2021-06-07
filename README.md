@@ -60,6 +60,7 @@ I am a professional dedicated to learning and continuous improvement and passion
 
 <details>
 <summary> 📈 My GitHub Stats: </summary>
+<p></p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoOliveiraCordeiro&&theme=react&layout=compact&langs_count=10"/>
 <img src="https://github-readme-stats.vercel.app/api?username=ThiagoOliveiraCordeiro&show_icons=true&theme=react" alt="ThiagoOliveiraCordeiro" />
 </details>
