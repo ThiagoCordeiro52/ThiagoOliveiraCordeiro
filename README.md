@@ -27,15 +27,15 @@ Here are some ideas to get you started:
 </a>&nbsp;&nbsp; 
 </p>
 
+I am a professional dedicated to learning and continuous improvement and passionate about my area of ​​working, programming.
+I have good experience with SPAs and RESTful APIs.
 
-I am a professional dedicated to learning and continuous improvement and passionate about my area of ​​studying, programming. :rocket: 
-
-<img align="right" alt="programação" src="https://github.com/ThiagoOliveiraCordeiro/ThiagoOliveiraCordeiro/blob/master/code.gif" width="400" height="230" />
-
- 👨🏽‍💻 Front-end developer with: Html, Css/Sass, JavaScript/TypeScript e React. 💜
-
-:books: Academic background: Graduating in Computer Science from the Universidade Federal do Rio Grande do Norte (UFRN) and technician in Administration from the Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN). 
-
+- 🔭 I'm currently studying on [UFRN](https://www.ufrn.br/)
+- 🌱 I’m currently learning React.js.
+- 👯 I regularly post content on the page [Code Space](https://www.instagram.com/code.space_/)
+- 💬 Ask me about technologies, finance, marketing and business.
+- ⚡ Interested in React.js, Next.js, Express.js, React Native and Design Patterns.
+- 🎮 Fun fact: I like to study ux writing and ui design in my free time.
 
 
 <details>
@@ -63,8 +63,16 @@ I am a professional dedicated to learning and continuous improvement and passion
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoOliveiraCordeiro&&theme=react&layout=compact&langs_count=10"/>
 <img src="https://github-readme-stats.vercel.app/api?username=ThiagoOliveiraCordeiro&show_icons=true&theme=react" alt="ThiagoOliveiraCordeiro" />
 </details>
+
+<blockquote><p>"What we have to learn to do, we learn by doing." ― Aristotle</p></blockquote>
 <!-- <p style="align=center;"> -->
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 <!-- </p> -->
 <!-- &theme=material-palenight -->
 <!-- &theme=gotham -->
+
+<!-- I am a professional dedicated to learning and continuous improvement and passionate about my area of ​​studying, programming. :rocket: 
+
+ 👨🏽‍💻 Front-end developer with: Html, Css/Sass, JavaScript/TypeScript e React. 💜
+
+:books: Academic background: Graduating in Computer Science from the Universidade Federal do Rio Grande do Norte (UFRN) and technician in Administration from the Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN). -->
