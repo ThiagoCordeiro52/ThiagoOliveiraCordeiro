@@ -39,7 +39,7 @@ I am a professional dedicated to learning and continuous improvement and passion
 
 <details>
     <summary> 💻 Languages and Tools: </summary> 
-    <pre> 
+    <code> 
     <code> <img alt="icone do html5" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
     <code> <img alt="icone do css3" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
     <code><img alt="icone do JavaScript" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
@@ -56,7 +56,7 @@ I am a professional dedicated to learning and continuous improvement and passion
     <code><img alt="icone do C" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
     <code><img alt="icone do CPP" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
     <code><img alt="icone do Linux" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
-    </pre>
+    </code>
 </details>
 
 <details>
