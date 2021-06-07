@@ -27,12 +27,11 @@ Here are some ideas to get you started:
 </a>&nbsp;&nbsp; 
 </p>
 
-I am a professional dedicated to learning and continuous improvement and passionate about my area of ​​working, programming.
-I have good experience with SPAs and RESTful APIs.
+I am a professional dedicated to learning and continuous improvement and passionate about my area of ​​working, programming. And I have good experience with SPAs and RESTful APIs.
 
-- 🔭 I'm currently studying on [UFRN](https://www.ufrn.br/)
+- 🔭 I'm currently studying on [UFRN](https://www.ufrn.br/).
 - 🌱 I’m currently learning React.js.
-- 👯 I regularly post content on the page [Code Space](https://www.instagram.com/code.space_/)
+- 👯 I regularly post content on the page [Code Space](https://www.instagram.com/code.space_/).
 - 💬 Ask me about technologies, finance, marketing and business.
 - ⚡ Interested in React.js, Next.js, Express.js, React Native and Design Patterns.
 - 🎮 Fun fact: I like to study ux writing and ui design in my free time.
@@ -40,22 +39,22 @@ I have good experience with SPAs and RESTful APIs.
 
 <details>
     <summary> 💻 Languages and Tools: </summary>  
-    <code> <img alt="icone do html5" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
-    <code> <img alt="icone do css3" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
-    <code><img alt="icone do JavaScript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-    <code><img alt="icone do BootStrap" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></code>
-    <code><img alt="icone do TypeScript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
-    <code><img alt="icone do BabelJS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg"></code>
-    <code><img alt="icone do Webpack" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg"></code>
-    <code><img alt="icone do ReactJS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
-    <code><img alt="icone do NextJS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"></code>
-    <code><img alt="icone do ExpressJS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"></code>
-    <code><img alt="icone do Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-    <code><img alt="icone do Django" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"></code>
-    <code><img alt="icone do MySql" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
-    <code><img alt="icone do C" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
-    <code><img alt="icone do CPP" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
-    <code><img alt="icone do Linux" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
+    <code> <img alt="icone do html5" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
+    <code> <img alt="icone do css3" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
+    <code><img alt="icone do JavaScript" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+    <code><img alt="icone do BootStrap" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></code>
+    <code><img alt="icone do TypeScript" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
+    <code><img alt="icone do BabelJS" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg"></code>
+    <code><img alt="icone do Webpack" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg"></code>
+    <code><img alt="icone do ReactJS" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
+    <code><img alt="icone do NextJS" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"></code>
+    <code><img alt="icone do ExpressJS" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"></code>
+    <code><img alt="icone do Python" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+    <code><img alt="icone do Django" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"></code>
+    <code><img alt="icone do MySql" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
+    <code><img alt="icone do C" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
+    <code><img alt="icone do CPP" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
+    <code><img alt="icone do Linux" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
 </details>
 
 <details>
@@ -64,7 +63,7 @@ I have good experience with SPAs and RESTful APIs.
 <img src="https://github-readme-stats.vercel.app/api?username=ThiagoOliveiraCordeiro&show_icons=true&theme=react" alt="ThiagoOliveiraCordeiro" />
 </details>
 
-<blockquote><p>"What we have to learn to do, we learn by doing." ― Aristotle</p></blockquote>
+<blockquote><p>"What we have to learn to do, we learn by doing." ― Aristotle.</p></blockquote>
 <!-- <p style="align=center;"> -->
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 <!-- </p> -->
