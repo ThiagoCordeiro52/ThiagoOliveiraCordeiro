@@ -50,7 +50,7 @@ I have good experience with SPAs and RESTful APIs.
     <code><img alt="icone do BabelJS" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg"></code>
     <code><img alt="icone do Webpack" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg"></code>
     <code><img alt="icone do ReactJS" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
-    <code><img alt="icone do NodeJS" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/node/nodejs-original-wordmark.svg"></code>
+    <code><img alt="icone do NodeJS" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
     <code><img alt="icone do Python" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
     <code><img alt="icone do Django" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"></code>
     <code><img alt="icone do MySql" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
