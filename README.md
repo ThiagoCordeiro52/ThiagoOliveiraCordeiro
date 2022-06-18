@@ -27,9 +27,7 @@ Here are some ideas to get you started:
 </a>&nbsp;&nbsp; 
 </p>
 
-I am a professional dedicated to learning and continuous improvement and passionate about my area of ​​working, programming. 
-
-I have good experience with SPAs and RESTful APIs.
+## About me
 
 - 🔭 I'm currently working at [IMD](https://www.metropoledigital.ufrn.br/portal/).
 - 🌱 I’m currently studying Computer Science at [UFRN](https://www.ufrn.br/).
@@ -60,7 +58,7 @@ I have good experience with SPAs and RESTful APIs.
 <details>
 <summary> 📈 My GitHub Stats: </summary>
 <p></p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoOliveiraCordeiro&&theme=react&layout=compact&langs_count=10"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoOliveiraCordeiro&&theme=react&layout=compact&langs_count=5"/>
 <img src="https://github-readme-stats.vercel.app/api?username=ThiagoOliveiraCordeiro&show_icons=true&theme=react" alt="ThiagoOliveiraCordeiro" />
 </details>
 
