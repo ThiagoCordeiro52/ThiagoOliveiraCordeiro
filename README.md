@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# ⚡ Thiago Oliveira
+# Thiago Oliveira
 
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 <p>
 <a href="https://www.linkedin.com/in/thiago-de-oliveira-cordeiro-32562b1b6/">
@@ -31,9 +31,8 @@ I am a professional dedicated to learning and continuous improvement and passion
 
 I have good experience with SPAs and RESTful APIs.
 
-- 🔭 I'm currently studying on [UFRN](https://www.ufrn.br/).
-- 🌱 I’m currently learning React.js.
-- 📝 I regularly post content on the page [Code Space](https://www.instagram.com/code.space_/).
+- 🔭 I'm currently working at [IMD](https://www.metropoledigital.ufrn.br/portal/).
+- 🌱 I’m currently studying Computer Science at [UFRN](https://www.ufrn.br/).
 - 💬 Ask me about technologies, finance, marketing and business.
 - ⚡ Interested in React.js, Next.js, Express.js, React Native and Design Patterns.
 - 🎮 Fun fact: I like to study ux writing and ui design in my free time.
@@ -52,19 +51,18 @@ I have good experience with SPAs and RESTful APIs.
     <code><img alt="icone do ReactJS" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
     <code><img alt="icone do NodeJS" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>
     <code><img alt="icone do Python" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-    <code><img alt="icone do Django" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"></code>
     <code><img alt="icone do MySql" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
     <code><img alt="icone do C" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
     <code><img alt="icone do CPP" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
     <code><img alt="icone do Linux" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
 </details>
 
-<!-- <details>
+<details>
 <summary> 📈 My GitHub Stats: </summary>
 <p></p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoOliveiraCordeiro&&theme=react&layout=compact&langs_count=10"/>
 <img src="https://github-readme-stats.vercel.app/api?username=ThiagoOliveiraCordeiro&show_icons=true&theme=react" alt="ThiagoOliveiraCordeiro" />
-</details> -->
+</details>
 
 <blockquote><p>"What we have to learn to do, we learn by doing." ― Aristotle.</p></blockquote>
 <!-- <p style="align=center;"> -->
