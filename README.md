@@ -14,62 +14,135 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Thiago Oliveira
+
+# Thiago Cordeiro
 
 <!-- ### Hey there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">! My social media: -->
 
 <p>
-<a href="https://www.linkedin.com/in/thiago-de-oliveira-cordeiro-32562b1b6/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="mailto:thiagoty52@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
-</a>&nbsp;&nbsp; 
+  <a href="https://www.linkedin.com/in/thiago-de-oliveira-cordeiro-32562b1b6/">
+    <img
+      src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
+    /> </a
+  >&nbsp;&nbsp;
+  <a href="mailto:thiagoty52@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    /> </a
+  >&nbsp;&nbsp;
 </p>
 
-### About me
+### About me -
 
 - 🔭 I'm currently working at [IMD](https://www.metropoledigital.ufrn.br/portal/).
 - 🌱 I’m currently studying Computer Science at [UFRN](https://www.ufrn.br/).
 - 💬 Ask me about technologies, finance, marketing and business.
-- ⚡ Interested in React.js, Next.js, Express.js, React Native and Design Patterns.
+- ⚡ Interested in React.js,Next.js, Express.js, React Native and Design Patterns.
 - 🎮 Fun fact: I like to study ux writing and ui design in my free time.
 
+<h3>💻 Languages and Tools:</h3>
+<div align="center">
+  <code>
+    <img
+      alt="icone do html5"
+      height="25"
+      width="25"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+  /></code>
+  <code>
+    <img
+      alt="icone do css3"
+      height="25"
+      width="25"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+  /></code>
+  <code
+    ><img
+      alt="icone do JavaScript"
+      height="25"
+      width="25"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+  /></code>
+  <code
+    ><img
+      alt="icone do TypeScript"
+      height="25"
+      width="25"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+  /></code>
+  <code
+    ><img
+      alt="icone do NodeJS"
+      height="25"
+      width="25"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
+  /></code>
+  <code
+    ><img
+      alt="icone do MySql"
+      height="25"
+      width="25"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
+  /></code>
+    <code
+    ><img
+      alt="icone do ReactJS"
+      height="25"
+      width="25"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+  /></code>
+  <code
+  ><img 
+    alt="icone do Flutter"
+    height="25"
+    width="25"
+    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flutter/flutter-original.svg"
+  /></code>
+  <code
+  ><img 
+    alt="icone do MaterialUI"
+    height="25"
+    width="25"
+    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/materialui/materialui-original.svg"
+  /></code>
+  <code
+    ><img
+      alt="icone do Linux"
+      height="25"
+      width="25"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+  /></code>
+    <code
+    ><img
+      alt="icone do CPP"
+      height="25"
+      width="25"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+  /></code>
+</div>
 
-<details>
-    <summary> 💻 Languages and Tools: </summary> 
-    <p></p>
-    <code> <img alt="icone do html5" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
-    <code> <img alt="icone do css3" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
-    <code><img alt="icone do JavaScript" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-    <code><img alt="icone do BootStrap" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></code>
-    <code><img alt="icone do TypeScript" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
-    <code><img alt="icone do BabelJS" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg"></code>
-    <code><img alt="icone do Webpack" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg"></code>
-    <code><img alt="icone do ReactJS" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
-    <code><img alt="icone do NodeJS" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>
-    <code><img alt="icone do Python" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-    <code><img alt="icone do MySql" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
-    <code><img alt="icone do C" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
-    <code><img alt="icone do CPP" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
-    <code><img alt="icone do Linux" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
-</details>
+<h3>📈 My GitHub Stats:</h3>
+<div align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoCordeiro52&&theme=react&layout=compact&langs_count=5"
+  />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=ThiagoCordeiro52&show_icons=true&theme=react"
+  />
+</div>
 
-<details>
-<summary> 📈 My GitHub Stats: </summary>
-<p></p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoOliveiraCordeiro&&theme=react&layout=compact&langs_count=5"/>
-<img src="https://github-readme-stats.vercel.app/api?username=ThiagoOliveiraCordeiro&show_icons=true&theme=react" alt="ThiagoOliveiraCordeiro" />
-</details>
-
-<blockquote><p>"What we have to learn to do, we learn by doing." ― Aristotle.</p></blockquote>
+<blockquote>
+  <p>"What we have to learn to do, we learn by doing." ― Aristotle.</p>
+</blockquote>
 <!-- <p style="align=center;"> -->
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 <!-- </p> -->
 <!-- &theme=material-palenight -->
 <!-- &theme=gotham -->
 
-<!-- I am a professional dedicated to learning and continuous improvement and passionate about my area of ​​studying, programming. :rocket: 
+<!-- I am a professional dedicated to learning and continuous improvement and passionate about my area of ​​studying, programming. :rocket:
 
  👨🏽‍💻 Front-end developer with: Html, Css/Sass, JavaScript/TypeScript e React. 💜
 
