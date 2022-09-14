@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - 🔭 I'm currently working at [IMD](https://www.metropoledigital.ufrn.br/portal/).
 - 🌱 I’m currently studying Computer Science at [UFRN](https://www.ufrn.br/).
 - 💬 Ask me about technologies, finance, marketing and business.
-- ⚡ Interested in React.js,Next.js, Express.js, React Native and Design Patterns.
+- ⚡ Interested in web development (React.js, Next.js and Express.js) and mobile app development (React Native and Flutter).
 - 🎮 Fun fact: I like to study ux writing and ui design in my free time.
 
 <h3>💻 Languages and Tools:</h3>
