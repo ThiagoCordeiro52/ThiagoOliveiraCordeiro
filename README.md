@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   >&nbsp;&nbsp;
 </p>
 
-### About me -
+### About me
 
 - 🔭 I'm currently working at [IMD](https://www.metropoledigital.ufrn.br/portal/).
 - 🌱 I’m currently studying Computer Science at [UFRN](https://www.ufrn.br/).
@@ -132,7 +132,7 @@ Here are some ideas to get you started:
     src="https://github-readme-stats.vercel.app/api?username=ThiagoCordeiro52&show_icons=true&theme=react"
   />
 </div>
-
+&nbsp;
 <blockquote>
   <p>"What we have to learn to do, we learn by doing." ― Aristotle.</p>
 </blockquote>
