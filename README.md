@@ -15,13 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<style>
-  div code {
-    width: 35.88px;
-    height: 20.44px;
-  }
-</style>
-
 # Thiago Cordeiro
 
 <!-- ### Hey there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">! My social media: -->
@@ -49,7 +42,7 @@ Here are some ideas to get you started:
 
 <h3>💻 Languages and Tools:</h3>
 <div align="center">
-  <code>
+  <code height="20.44" width="35.88">
     <img
       alt="icone do html5"
       height="25"
@@ -57,7 +50,7 @@ Here are some ideas to get you started:
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
     />
   </code>
-  <code>
+  <code height="20.44" width="35.88">
     <img
       alt="icone do css3"
       height="25"
