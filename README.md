@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<style>
+  div code {
+    width: 35.88px;
+    height: 20.44px;
+  }
+</style>
+
 # Thiago Cordeiro
 
 <!-- ### Hey there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">! My social media: -->
