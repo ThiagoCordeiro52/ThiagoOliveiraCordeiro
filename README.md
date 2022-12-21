@@ -41,75 +41,88 @@ Here are some ideas to get you started:
 - 🎮 Fun fact: I like to study ux writing and ui design in my free time.
 
 <h3>💻 Languages and Tools:</h3>
-<div style="display: flex;  justify-content: center">
-  <img
-    alt="icone do html5"
-    height="25"
-    width="25"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
-  />
-
-  <img
-    alt="icone do css3"
-    height="25"
-    width="25"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
-  />
-
-  <img
+<div align="center">
+  <code>
+    <img
+      align="center"
+      alt="icone do HTML5"
+      height="25"
+      width="25"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+    />
+  </code>
+  <code>
+    <img
+      align="center"
+      alt="icone do CSS3"
+      height="25"
+      width="25"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+    />
+  </code>
+  <code
+    ><img
       alt="icone do JavaScript"
       height="25"
       width="25"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-  />
-  <img
-    alt="icone do TypeScript"
-    height="25"
-    width="25"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-  />
-  <img
-    alt="icone do NodeJS"
-    height="25"
-    width="25"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
-  />
-  <img
+  /></code>
+  <code
+    ><img
+      alt="icone do TypeScript"
+      height="25"
+      width="25"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+  /></code>
+  <code
+    ><img
+      alt="icone do NodeJS"
+      height="25"
+      width="25"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
+  /></code>
+  <code
+    ><img
       alt="icone do MySql"
       height="25"
       width="25"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
-  />
-  <img
+  /></code>
+    <code
+    ><img
       alt="icone do ReactJS"
       height="25"
       width="25"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-  />
-  <img 
+  /></code>
+  <code
+  ><img 
     alt="icone do Flutter"
     height="25"
     width="25"
     src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flutter/flutter-original.svg"
-  />
-  <img 
+  /></code>
+  <code
+  ><img 
     alt="icone do MaterialUI"
     height="25"
     width="25"
     src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/materialui/materialui-original.svg"
-  />
-  <img
+  /></code>
+  <code
+    ><img
       alt="icone do Linux"
       height="25"
       width="25"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-  />
-  <img
+  /></code>
+    <code
+    ><img
       alt="icone do CPP"
       height="25"
       width="25"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-  />
+  /></code>
 </div>
 
 <h3>📈 My GitHub Stats:</h3>
