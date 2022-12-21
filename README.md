@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 - 🎮 Fun fact: I like to study ux writing and ui design in my free time.
 
 <h3>💻 Languages and Tools:</h3>
-<div align="center">
+<div style="display: flex;  justify-content: center">
   <img
     alt="icone do html5"
     height="25"
