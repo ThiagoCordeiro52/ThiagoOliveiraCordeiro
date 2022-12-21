@@ -42,10 +42,7 @@ Here are some ideas to get you started:
 
 <h3>💻 Languages and Tools:</h3>
 <div align="center">
-  <code 
-    height="25"
-    width="25"
-  >
+  <code>
     <img
       alt="icone do html5"
       height="25"
@@ -53,10 +50,7 @@ Here are some ideas to get you started:
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
     />
   </code>
-  <code 
-    height="25"
-    width="25"
-  >
+  <code>
     <img
       alt="icone do css3"
       height="25"
