@@ -129,11 +129,11 @@ Here are some ideas to get you started:
 <div align="center">
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoCordeiro52&&theme=react&layout=compact&langs_count=5"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=teagucordeiro&&theme=react&layout=compact&langs_count=5"
   />
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=ThiagoCordeiro52&show_icons=true&theme=react"
+    src="https://github-readme-stats.vercel.app/api?username=teagucordeiro&show_icons=true&theme=react"
   />
 </div>
 &nbsp;
